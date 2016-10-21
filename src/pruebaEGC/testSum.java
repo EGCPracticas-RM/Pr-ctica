@@ -4,6 +4,6 @@ package pruebaEGC;
 public class testSum {
 
 	public void testSum(){
-		asdf
+		System.out.println("Hola");
 	}
 }
